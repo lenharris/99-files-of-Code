@@ -1,0 +1,13 @@
+body {
+    background-color: #2E63E7;
+}
+h1{
+    color: silver;
+}
+
+.friend {
+    background-color: teal
+}
+.friend p {
+text-transform: uppercase;
+}
